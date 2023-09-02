@@ -1,0 +1,24 @@
+Fonts:
+
+Header footer <inter>
+
+I chose the <INTER> font for its strong appearance and its carefully crafted & designed for computer screens.
+
+Body font <SARLALA> gave the title a great look and focus
+Body text font <TEKO> letterforms with low stroke contrast, square proportions, and a structure that appears visually simple for a comfortable reading experience 
+
+Logo font <UNICA>  i just love it.
+
+Main colors:
+
+I chose the BLACK color <000000> for the header and footer, representing power and devotion, and also used it as a part of the background gradient.
+
+I chose the GREEN color <#42f42d> for attention and it represents renewal, growth, and change
+
+For design purposes, I chose the following secondary colors
+
+INDIGO color <3B0495> for the background which represents power, and devotion, used as a gradient in the background.
+WHITE color <FFFFFF> which makes it bright and visible to the client and represents purity or innocence.
+
+
+I changed the menu to a drop menu, and scaled the fonts and icons to make it fit the mobile version.
